@@ -43,7 +43,7 @@
             <p>Молодший бакалавр КН24</p>
         </div>
         <div class="sidebar" style="background: #fed0ff;">
-            <img src="this photo is unavailiable" alt="My photo" width="128px" height="128px">
+            <img src="none" alt="Image unavailable!" width="128px" height="128px">
             <h3>Контакти:</h3>
             <p>Номер телефону: <a href="tel:+380">+380</a></p>
             <p>Ел. пошта: <a href="mailto:person@gmail.com">person@gmail.com</a></p>
